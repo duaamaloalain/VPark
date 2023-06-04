@@ -1,9 +1,9 @@
 <template>
-  <section class="card-size">
+  <div class="card-size">
     <img :src="iconSrc" class="mt-50" alt="park" title="" />
     <p class="number-style font-bold-26">{{ number }}</p>
     <p class="font-roman-20">{{ title }}</p>
-  </section>
+  </div>
 </template>
 <script>
 export default {

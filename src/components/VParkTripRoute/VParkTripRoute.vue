@@ -1,7 +1,6 @@
 <template>
   <section class="trip-route">
     <div class="font-bold-24 color--blue-5">Trip Route</div>
-
     <VParkTripRouteModal />
   </section>
 </template>

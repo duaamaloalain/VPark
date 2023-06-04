@@ -1,5 +1,5 @@
 <template>
-  <section class="banner">
+  <div class="banner">
     <!-- question mark icon -->
     <div class="image-position">
       <img src="src/assets/icons/question.png" class="image" width="84" height="84" />
@@ -13,7 +13,7 @@
       <!-- button -->
       <button class="primary-btn font-bold-16 color--white">Discover</button>
     </div>
-  </section>
+  </div>
 </template>
 
 <script>

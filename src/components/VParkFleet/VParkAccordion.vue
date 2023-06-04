@@ -1,5 +1,4 @@
 <template>
-  <div>
     <div class="accordions">
       <dl v-for="(row, id) in rows" :key="id">
         <dt v-on:click="row.open = !row.open" :class="`${row.open ? 'radius-btm' : ''}`">
@@ -27,7 +26,6 @@
         </dd>
       </dl>
     </div>
-  </div>
 </template>
 
 <script>
