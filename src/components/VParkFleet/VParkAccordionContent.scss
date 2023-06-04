@@ -1,0 +1,34 @@
+
+  .accordion-content {
+    background-color: #f6f8fe;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    column-gap: 21px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  
+  .active {
+    margin-top: 10px;
+    height: 28px;
+    border-radius: 15px;
+    padding-right: 7px;
+  }
+  
+  .active-text {
+    float: left;
+    padding-left: 12px;
+    color: white;
+    opacity: 99;
+    margin-top: 3px;
+  }
+  
+  .dot {
+      float: right;
+      border: white;
+      height: 9px;
+      background-color: #ffffff;
+      border-radius: 50px;
+      margin-top: 9px;
+      padding-left: 10;
+  }

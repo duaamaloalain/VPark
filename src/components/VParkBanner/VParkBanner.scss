@@ -1,0 +1,20 @@
+.banner {
+    background-image: url('src/assets/icons/track.png');
+    height: 215px;
+    padding: 0px 85px;
+    display: inline-table;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+  }
+  .text-style {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  .width-70 {
+    width: 70%;
+  }
+  .image-position {
+    margin-top: -67px;
+    margin-bottom: -26px;
+  }

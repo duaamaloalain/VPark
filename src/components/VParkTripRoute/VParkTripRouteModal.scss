@@ -1,0 +1,109 @@
+.icon-style {
+  height: 50px;
+  background: #0087cc;
+  border-radius: 10px;
+  opacity: 1;
+  width: 50px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+.trip-route-modal {
+  background: #ffffff;
+  width: 466px;
+  box-shadow: 0px 10px 30px #1785c61a;
+  border: 1px solid #ffffff;
+  border-radius: 20px;
+  opacity: 1;
+  padding: 20px;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt-19 {
+  margin-top: 19px;
+}
+
+.my-15 {
+  margin: 15px 0;
+}
+
+.btn-style {
+  width: 204px;
+  background-color: #f6f8fe;
+  border: none;
+  width: 204px;
+  height: 60px;
+  border-radius: 20px;
+  text-align: left;
+  padding: 13px 20px;
+}
+
+.box-style {
+  background-color: #f6f8fe;
+  border: none;
+  border-radius: 20px;
+  text-align: center;
+  padding: 13px 22px;
+  display: inline-table;
+  margin-right: 13px;
+}
+
+.box-style:last-child {
+  margin-right: 0px;
+}
+
+.primary-btn {
+  height: 60px;
+  padding: 10px 34px;
+  border: none;
+  background: #f8b319;
+  border-radius: 15px;
+  opacity: 1;
+  margin-top: 20px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.secondary-btn {
+  height: 60px;
+  padding: 10px 34px;
+  border: 1px solid #f8b319;
+  background: #ffffff;
+  border-radius: 15px;
+  opacity: 1;
+  margin-top: 20px;
+  cursor: pointer;
+  color: #f8b319;
+  width: 100%;
+  margin-right: 20px;
+}
+
+.plus {
+  height: 50px;
+  width: 100%;
+  border-radius: 10px;
+  opacity: 1;
+  background-color: initial;
+}
+
+.plus-orange {
+  border: 1px solid #ff9b00;
+}
+
+.plus-green {
+  border: 1px solid #00b76e;
+}
+
+.plus-red {
+  border: 1px solid #ff0000;
+}
+
+.middle {
+  vertical-align: middle;
+}

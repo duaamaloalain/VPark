@@ -1,0 +1,35 @@
+$colors: (
+  // primary colors
+  "white": #FFFFFF,
+  // blue
+  "blue-1": #E7F0F9,
+  "blue-2": #E9F0F8,
+  "blue-3": #0087CC,
+  "blue-4": #1785C61A,
+  "blue-5": #0C1834,
+  "blue-6": #1785C6, 
+  "blue-7": #081836,
+  "blue-8": #F6F8FD,
+  "orange": #f9b317,
+  "green": #00AB80,
+  "red": #E63438,
+  // grey
+  "grey-100": #6D7485,
+  // green
+  "green-1":#00ae7d,
+  // yellow
+  "yellow": #F9B419,
+);
+
+@each $name, $color in $colors {
+  .color--#{$name} {
+    color: $color;
+  }
+  .bg--#{$name} {
+    background-color: $color;
+  }
+  .border--#{$name} {
+    border-color: $color;
+  }
+}
+

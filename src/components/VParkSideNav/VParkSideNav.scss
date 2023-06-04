@@ -1,0 +1,35 @@
+  .sidenav {
+    padding: 70px 38px;
+    padding-right: 0px;
+   }
+  
+  .sidenav a {
+    text-decoration: none;
+    color: #6d7485;
+    display: block;
+    padding-top: 50px;
+  }
+  
+  .sidenav a:first-child {
+    padding-top: 0px;
+    color: #1785c6;
+  }
+  
+  .sidenav a:hover {
+    color: #1785c6;
+  }
+  
+  .sidenav span {
+    padding-left: 22px;
+  }
+  
+  .main {
+    margin-left: 140px;
+    padding: 0px 10px;
+  }
+  
+  .needs-help {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }

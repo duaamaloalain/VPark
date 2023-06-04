@@ -1,0 +1,63 @@
+@import 'fonts';
+@import 'helpers/typography';
+@import 'helpers/colors';
+
+
+body {
+    font-family: frutiger-roman;
+}
+.opacity-07 {
+    opacity: 0.7;
+}
+.opacity-1 {
+    opacity: 1;
+}
+.radius-btm-0 {
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.mt-2 {
+  margin-top: 2px;
+}
+.mt-3 {
+  margin-top: 3px;
+}
+.mt-5 {
+  margin-top: 5px;
+}
+.mt-8 {
+  margin-top: 8px;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+.mt-15 {
+  margin-top: 15px;
+}
+.mt--15 {
+  margin-top: -15px;
+}
+.mt-16 {
+  margin-top: 16px;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+.ml-26 {
+  margin-left: 26px;
+}
+.mt--34 {
+  margin-top: -34px;
+}
+.mt-46 {
+  margin-top: 46px;
+}
+.mt-50 {
+  margin-top: 50px;
+}
+.mt-66 {
+  margin-top: 66px;
+}
+.m-auto {
+  margin: auto;
+}
