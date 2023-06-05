@@ -37,7 +37,7 @@ export default {
 .column-sidebar {
   width: 294px;
 }
-.up-arrow {
+/* .up-arrow {
     display: inline-block;
     position: relative;
 }
@@ -50,5 +50,5 @@ export default {
     right: 100%;
     border: 30px solid transparent;
     border-bottom-color: #E7F0F9;
-}
+} */
 </style>
